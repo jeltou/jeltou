@@ -1,5 +1,4 @@
 # 💫About Me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jelto-ubben-ba54a2301) 
 
 🔭 I’m currently working on [bierokratie](https://bierokratie.com)
 
